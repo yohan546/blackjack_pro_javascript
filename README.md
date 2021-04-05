@@ -4,7 +4,7 @@
 
 
 This purpose of this simulator is to practice your skills blackjack.
-I will implement the deck of cards api http://deckofcardsapi.com/ 
+I will implement the deck of cards api from http://deckofcardsapi.com/.
 This simulator will implement 6 deck of cards per game. 
 
 ## Features
