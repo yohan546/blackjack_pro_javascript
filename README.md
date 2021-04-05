@@ -22,16 +22,16 @@ This simulator will implement 6 deck of cards per game.
 ### Day 1 
 *generate deck and assign card values 
 
-##Day 2 
-*start game functionality in game.js 
+## Day 2 
+* start game functionality in game.js 
 
-##Day 3 
-*finish game functionality and add dealer and self player 
+## Day 3 
+* finish game functionality and add dealer and self player 
 
-##Day 4 
-*add betting functionality 
+## Day 4 
+* add betting functionality 
 
-##Day 5 
-*work on ui/ux design and how game will be displayed 
+## Day 5 
+* work on ui/ux design and how game will be displayed 
 
 
