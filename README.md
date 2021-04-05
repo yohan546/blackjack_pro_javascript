@@ -1,7 +1,7 @@
 # Blackjack Pro
 
 ## Background and Overview
-Blackjack Pro is a blackjack Simulator to help practice your skills and profit from your next visit to a casino! 
+Blackjack Pro is a blackjack simulator to help practice your skills and profit from your next visit to a casino! 
 Play against the dealer to see how well or bad you would do at a casino. 
 
 ## Functionality and MVP's
@@ -49,8 +49,7 @@ Play against the dealer to see how well or bad you would do at a casino.
 * webpack.prod.js
 
 ## Architecture and Technology
-I will implement the deck of cards api from http://deckofcardsapi.com/.
-This simulator will implement 6 deck of cards per game. 
+Must generate 6 deck of cards without using a deck of cards api
 
 ## Timplmentation Timeline
 ### Day 1 
