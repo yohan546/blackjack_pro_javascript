@@ -20,6 +20,30 @@ Play against the dealer to see how well or bad you would do at a casino.
 * betting functionality
 * UI/UX design of app 
 
+## Wireframes and File Structure 
+* /dist 
+…
+* /src
+* * /index.js
+* * /js
+* * * Game.js
+* * * Dealer.js 
+* * * Player.js
+* * * Cards.js
+* * * Chips.js
+* * * Chip_card_count.js
+* * * Sidebar.js 
+* Index.html
+* .gitignore
+* node_modules
+* package.json
+* package.lock.json
+* postcss.config.js
+* README.md
+* webpack.common.js
+* webpack.dev.js
+* webpack.prod.js
+
 ## Architecture and Technology
 I will implement the deck of cards api from http://deckofcardsapi.com/.
 This simulator will implement 6 deck of cards per game. 
