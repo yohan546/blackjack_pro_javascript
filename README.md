@@ -20,7 +20,7 @@ This simulator will implement 6 deck of cards per game.
 
 ## Timplmentation Timeline
 ### Day 1 
-*generate deck and assign card values 
+* generate deck and assign card values 
 
 ## Day 2 
 * start game functionality in game.js 
