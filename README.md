@@ -13,6 +13,12 @@ Play against the dealer to see how well or bad you would do at a casino.
 * options to split and double down
 * options to hit or stand buttons 
 * dealers soft/hard count
+### MVPS
+* Generate 6 decks and assign card values per game 
+* blackjack game functionality
+* dealer and user player
+* betting functionality
+* UI/UX design of app 
 
 ## Architecture and Technology
 I will implement the deck of cards api from http://deckofcardsapi.com/.
