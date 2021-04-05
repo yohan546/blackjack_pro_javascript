@@ -1,7 +1,7 @@
 # Blackjack Pro
 
 ## Background and Overview
-Blackjack Pro is a blackjack Ssmulator to help practice your skills and profit from your next visit to a casino! 
+Blackjack Pro is a blackjack Simulator to help practice your skills and profit from your next visit to a casino! 
 Play against the dealer to see how well or bad you would do at a casino. 
 
 ## Functionality and MVP's
