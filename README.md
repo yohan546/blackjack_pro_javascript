@@ -9,11 +9,11 @@ This simulator will implement 6 deck of cards per game.
 
 ## Features
 * ui will display..
-** your soft/hard count 
-** your chip stack
-** your current bet 
-** options for how much to bet
-** options to split and double down
-** options to hit or stand buttons 
-** dealers soft/hard count 
+  ** your soft/hard count 
+  ** your chip stack
+  ** your current bet 
+  ** options for how much to bet
+  ** options to split and double down
+  ** options to hit or stand buttons 
+  ** dealers soft/hard count 
 
