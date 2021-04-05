@@ -20,11 +20,13 @@ Play against the dealer to see how well or bad you would do at a casino.
 * betting functionality
 * UI/UX design of app 
 
-## Wireframes and File Structure 
+## Wireframe and File Structure 
+
+### Wireframe
 ![blackjack_wireframe](https://user-images.githubusercontent.com/76585985/113590703-f5076100-9600-11eb-9924-e171849834a7.png)
 
+### File Structure
 * /dist 
-…
 * /src
 * * /index.js
 * * /js
