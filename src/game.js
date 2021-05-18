@@ -10,7 +10,12 @@ function Game() {
     this.currentDeal = this.player; 
 }
 
+Game.prototype.playerBet = function() {
+    const currentChips = player.chipStack 
 
+    
+
+}
 
 Game.prototype.countValue = function(currentPlayer) {
     currentPlayer.cardsValue = 0
