@@ -1,7 +1,9 @@
 const Cards = require("./cards")
 const Player = require("./player")
-const Dealer = require("./dealer")
+const Dealer = require("./dealer");
+const GameView = require("./game_view");
 
+CHIPS = [10,50,100,500]
 function Game() {
     debugger 
     this.deck = new Cards();
@@ -10,11 +12,10 @@ function Game() {
     this.currentDeal = this.player; 
 }
 
-Game.prototype.playerBet = function() {
-    const currentChips = player.chipStack 
+Game.prototype.
 
-    
-
+Game.prototype.playerBet = function(chip) {
+    play.chipStack - chip
 }
 
 Game.prototype.countValue = function(currentPlayer) {
